@@ -58,6 +58,7 @@ html {
     left: 50%;
     padding: 4vmin;
     box-shadow: 5px 5px 8px #0000003d;
+    /* box-shadow: 10px 10px 0px #000; */
     max-width: 80vmin;
     max-height: 120vmin;
 }
